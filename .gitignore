@@ -1,0 +1,10 @@
+# Python setup
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.env
+
+# DSPy Artifacts
+*.json
+dsp_cache/
